@@ -1,7 +1,6 @@
 print('hello world')
 
 def hello() :
-    return 'hello world'
+    return print('hello world')
 
-print(hello())
-
+hello()
